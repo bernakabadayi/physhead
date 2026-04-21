@@ -8,5 +8,6 @@
 ## Todo
 
 - [ ] FLAME tracking code for Ava-256 dataset
+- [ ] Bald dataset generation code
 - [ ] PhysHead avatar reconstruction code
 - [x] Hair Simulation code
