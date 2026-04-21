@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / outputs (large files, not for git)
+hairsim/data/
+# hairsim/asset/*.obj
+# hairsim/asset/*.mtl
+# hairsim/asset/*.jpg
+# hairsim/asset/*.png
+# hairsim/asset/*.gif
+
+# Maya / Blender artifacts
+*.ma
+*.mb
+*.abc
+*.blend
+*.blend1
+mayaLog
+mayaRenderLog.txt
+
+# Logs
+*.log
