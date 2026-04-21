@@ -1,0 +1,5 @@
+numpy==1.23.5
+scipy==1.9.3
+scikit-learn==1.6.1
+trimesh==3.23.5
+Pillow
